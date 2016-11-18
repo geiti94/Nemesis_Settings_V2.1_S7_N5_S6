@@ -1,0 +1,4 @@
+#Fri Nov 18 03:52:30 CET 2016
+base.0=C\:\\Users\\Gaetano\\Desktop\\Nemesis_Settings_V2.1-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\Gaetano\\Desktop\\Nemesis_Settings_V2.1-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
